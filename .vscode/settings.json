@@ -1,0 +1,8 @@
+{
+    "css.validate": false,
+    "tailwindCSS.emmetCompletions": true,
+    "cSpell.words": [
+        "tailwindcss"
+    ],
+    "liveServer.settings.port": 5501,
+}
